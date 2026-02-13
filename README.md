@@ -29,7 +29,7 @@ You need to have **Python 3** installed on your computer.
    ```bash
    git clone [https://github.com/eniscelik16/treasure-island-hunt.git](https://github.com/eniscelik16/treasure-island-hunt.git)
 
-##🛠️ Technologies & Concepts Used
+## 🛠️ Technologies & Concepts Used
 
 Python 3
 Control Flow: Mastering if, elif, and else statements.
