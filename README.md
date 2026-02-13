@@ -1,4 +1,4 @@
-\# 🏴‍☠️ Treasure Island Game
+# 🏴‍☠️ Treasure Island Game
 
 
 
@@ -6,7 +6,7 @@ Welcome to \*\*Treasure Island\*\*, an interactive text-based adventure game bui
 
 
 
-\## 📝 About the Project
+## 📝 About the Project
 
 
 
@@ -18,7 +18,7 @@ The program handles user input dynamically (case-insensitive) to ensure a smooth
 
 
 
-\## 🎮 Gameplay
+## 🎮 Gameplay
 
 
 
@@ -34,11 +34,10 @@ You are an adventurer looking for the legendary lost treasure. You will face a s
 
 
 
-\*Be careful! Wrong choices will lead to a "Game Over" by wild beasts, supernatural forces, or traps.\*
+*Be careful! Wrong choices will lead to a "Game Over" by wild beasts, supernatural forces, or traps.\*
 
 
-
-\## 🚀 Getting Started
+## 🚀 Getting Started
 
 
 
